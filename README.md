@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+## Capture d'écran
+
+<div align='center'>
+<img src="./cover.png" alt="Capture d'écran du jeu Snake" width="300">
+</div>
+
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.

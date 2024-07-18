@@ -410,7 +410,7 @@ class HotelCard extends StatelessWidget {
                     color: Colors.grey[500],
                     fontWeight: FontWeight.w400,
                   ),
-                ),
+                 ),
                 Row(
                   children: [
                     const Icon(
