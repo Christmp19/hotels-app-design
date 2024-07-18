@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Capture d'écran
+## Screenshot
 
 <div align='center'>
 <img src="./cover.png" alt="Capture d'écran du jeu Snake" width="300">
